@@ -8,6 +8,7 @@
 }
 
 %end
+
 %ctor {
 	@autoreleasepool {
         %init();
