@@ -9,6 +9,6 @@ include theos/makefiles/common.mk
 
 TWEAK_NAME = BrightnessFix
 BrightnessFix_FILES = Tweak.xm
-BrightnessFix_FRAMEWORKS = Foundation UIKit
+BrightnessFix_FRAMEWORKS = UIKit
 
 include $(THEOS_MAKE_PATH)/tweak.mk
