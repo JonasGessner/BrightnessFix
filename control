@@ -1,0 +1,9 @@
+Package: de.j-gessner.brighnessfix
+Name: BrightnessFix
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix that Brightness!
+Maintainer: Jonas Gessner
+Author: Jonas Gessner
+Section: Tweaks

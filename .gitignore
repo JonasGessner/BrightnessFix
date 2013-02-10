@@ -1,0 +1,10 @@
+*/.DS_Store
+obj/*
+/obj/*
+*.deb
+.theos/*
+theos/*
+theos
+_/*
+*/*.dylib
+.DS_Store
