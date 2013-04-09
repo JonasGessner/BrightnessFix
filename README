@@ -1,6 +1,10 @@
 BrightnessFix restores the Brightness setting after killing SpringBoard on iOS 6.x
 
+FOR DEVS: By killing backboardd on >= iOS 6.0 the issue doesn't even occur, so update your tweaks!
+
 By Jonas Gessner
 
-Unauthorized distribution of this code in Cydia is not allowed.
+Available on Cydia.
+
+You may not redistribte this same tweak on Cydia.
 
